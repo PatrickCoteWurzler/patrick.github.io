@@ -26,7 +26,11 @@ img{
 
 
 .bio{
-    color: rgb(255, 212, 71,)
+    color: rgb(86, 98, 70);
+}
+
+body{
+    border-color: rbg(255, 212, 71);
 }
 
 @media all and (min-width: 768px){
